@@ -2,7 +2,7 @@
 
 ## Prueba la API
 
-<https://backend-postgresql.herokuapp.com/>.
+🚀 <https://backend-postgresql.herokuapp.com/>.
 
 ## Características del proyecto
 
