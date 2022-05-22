@@ -31,8 +31,7 @@ app.get('/', (req, res) => {
 routerApi(app)
 
 app.use((req, res, next) => {
-  const err = boom.notFound()
-  next(err)
+  next(boom.notFound())
 })
 
 app.use(logErrors)
