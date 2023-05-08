@@ -3,28 +3,20 @@
 
 This is a personal project developed during 1 month, it is a REST API created with the Express framework and PostgreSQL as a database that is executed with Docker Compose. Database queries are done through an ORM called Sequelize.
 
-
 ## Demo
 
 🚧 Working on it
-
 
 ## Table of content
 
 - [Pre-requisites](#pre-requisites)
 - [Run locally](#run-locally)
-    - [Clone the project](#clone-the-project)
-    - [Go to the project directory](#go-to-the-project-directory)
-    - [Install dependencies](#install-dependencies)
-    - [Set environment variables](#set-environment-variables)
-    - [Create PostgreSQL and pgAdmin container](#create-postgresql-and-pgadmin-container)
-    - [Migrate the database](#migrate-the-database)
-    - [Start the server](#start-the-server)
-- [Technologies used](#technologies)
+- [Technologies used](#technologies-used)
 - [API Reference](#api-reference)
 - [Status](#status)
-- [Credits](#credits)
+- [Author](#author)
 - [License](#license)
+
 ## Pre-requisites
 
 Before you start, make sure you have the following:
@@ -93,7 +85,6 @@ Start the server
 npm run dev
 ```
 
-
 ## API Reference
 
 🚧 Working on it
@@ -109,7 +100,8 @@ npm run dev
 ## Status
 
 API version 1 completed. Working on GraphQL implementation.
-## Authors
+
+## Author
 
 - [@aldosalasrdz](https://www.github.com/aldosalasrdz)
 
