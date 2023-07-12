@@ -1,4 +1,3 @@
-
 # Ecommerce API
 
 This is a personal project developed during 1 month, it is a REST API created with the Express framework and PostgreSQL as a database that is executed with Docker Compose. Database queries are done through an ORM called Sequelize.
@@ -108,4 +107,3 @@ API version 1 completed. Working on GraphQL implementation.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
